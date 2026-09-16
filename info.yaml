@@ -3,7 +3,7 @@ project:
   title:        "8-bit Adder"      # Project title
   author:       "Yacine Ouhrouche"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "An 8-bit combinational adder that adds ui_in and uio_in and outputs the result on uo_out."      # One line description of what your project does
+  description:  "8-bit combinational"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
